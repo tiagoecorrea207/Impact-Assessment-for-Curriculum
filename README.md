@@ -1,4 +1,2 @@
-# BasketGame
-BasketGame
-Criar um banco de dados de nome Jogos contendo a tabela jogos, com as seguintes colunas:
-id bigint; data date; pontos bigint
+# Impact Assessment for Curriculum
+Brings proof and demonstrations for the impact and results that I got in some projects I developed across my career.
